@@ -1,4 +1,5 @@
-ef count15(num_hand):
+
+def count15(num_hand):
     sum15 = 0
     for x1 in range (0,5):
         for x2 in range(x1+1,5):
